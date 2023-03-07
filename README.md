@@ -15,7 +15,7 @@ Download src and place in catkin workspace. Run catkin_make
 You should now be able to run the command
 roslaunch husky_tut uwb_launch.launch 
 
-Thanks to:
+### Thanks to
 
 https://github.com/bekirbostanci/ieuagv_localization
 
