@@ -10,6 +10,9 @@ in folder usr/share/gazebo-11/models paste the folders UWB_anchor0 through UWB_a
 
 Download src and place in catkin workspace. Run catkin_make
 
+You should now be able to run the command
+roslaunch husky_tut uwb_launch.launch 
+
 Thanks to:
 
 https://github.com/bekirbostanci/ieuagv_localization
