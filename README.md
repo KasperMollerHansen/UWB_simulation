@@ -9,10 +9,10 @@ in folder usr/share/gazebo-11/worlds paste the file UWB.world as UWB.world
 
 in folder usr/share/gazebo-11/models paste the folders UWB_anchor0 through UWB_anchor5
 
-Download src and place in catkin workspace. Run catkin_make
+Download src and place in catkin workspace. Make sure that all files are executable. Run catkin_make
 
 ### Simulation
-You should now be able to run the command
+You should now be able to run the command.
 roslaunch husky_tut uwb_launch.launch 
 
 ### Thanks to
