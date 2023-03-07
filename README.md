@@ -2,7 +2,7 @@
 
 in folder opt/ros/noetic/share/gazebo_ros/launch paste the file UWB.launch as UWB.launch
 
-in folder opt/ros/noetic/share/husky_description overwrite the file husky.urdf.xacro with husky.urdf.xacro
+in folder opt/ros/noetic/share/husky_description/urdf overwrite the file husky.urdf.xacro with husky.urdf.xacro
 
 in folder usr/share/gazebo-11/worlds paste the file UWB.world as UWB.world
 
