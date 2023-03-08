@@ -22,3 +22,10 @@ https://github.com/bekirbostanci/ieuagv_localization
 https://github.com/advoard/pozyx_simulation
 
 https://github.com/valentinbarral/gazebosensorplugins
+
+### Add model folder to Gazebo
+In  ~/.bashrch insert the following line
+
+export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/home/jonathannielsen/models
+
+change the username to your username and create a folder in the location before sourcing the script. Now you can add custom models in a writeable folder
